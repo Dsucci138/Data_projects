@@ -7,9 +7,9 @@ analytics along with preparing me for what may come.
 
 Along with a coursera certification, i've continued to learn more about Data analysis from many helpful websites and videos online which helped teach me:
 
-*Gathering and Assessing Data
-*Data Cleaning
-*Data Exploration
-*SQL for data analysis
-*Tableau for data visualization
-*Python for data analysis
+* Gathering and Assessing Data
+* Data Cleaning
+* Data Exploration
+* SQL for data analysis
+* Tableau for data visualization
+* Python for data analysis
