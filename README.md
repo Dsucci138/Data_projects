@@ -13,3 +13,4 @@ Along with a coursera certification, i've continued to learn more about Data ana
 * SQL for data analysis
 * Tableau for data visualization
 * Python for data analysis
+* Excel
